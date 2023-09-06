@@ -1,2 +1,2 @@
 # Atomic-Mass-Calculator
-Reallife Aplication of Cramer's Rule in Atomic Mass Calculator
+This project is the real-life application of Cramer's Rule in Atomic Mass Calculator for Mathematics
